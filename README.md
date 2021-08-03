@@ -26,7 +26,7 @@ fabriciofreixo@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D
 </div>
   
 ##
- <div>
+ <div style="display: inline_block">
   <br>
   <a href="https://github.com/Freixofabricio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freixofabricio&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
