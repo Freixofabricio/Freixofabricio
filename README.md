@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<div align="center" margin-top:0>
+<div align="center">
   <a href="https://www.linkedin.com/in/fabriciofreixo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/freixofabricio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/freixofabricio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -26,11 +26,11 @@ fabriciofreixo@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D
 </div>
   
 ##
- <div style="display: inline_block">
+ <div>
   <br>
   <a href="https://github.com/Freixofabricio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freixofabricio&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freixofabricio&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Freixofabricio&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freixofabricio&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
   ##
